@@ -1,0 +1,11 @@
+In these projects, I focused on developing and optimizing firmware for the Texas Instruments CC3220S LAUNCHXL, specifically for UART communication and PWM LED control. The primary problem these projects aimed to solve was ensuring reliable and efficient hardware interaction in embedded systems, which is crucial for real-time applications.
+
+What I did particularly well was the meticulous attention to detail in configuring the UART and PWM peripherals. I ensured that the code was robust and well-structured, leading to reliable data transmission and precise LED control. My approach to testing was also thorough, as I simulated various scenarios to ensure the firmware would perform consistently under different conditions.
+
+However, there’s always room for improvement. One area where I could have done better is in optimizing the code for performance. While the code was functional, there were opportunities to streamline certain processes, reducing the overall execution time and power consumption. Additionally, enhancing the documentation could have provided clearer guidance for future developers who might work on this code.
+
+To support my ongoing development, I’m adding more advanced debugging tools and resources to my network, such as Logic Analyzers and more comprehensive TI documentation. These tools will help me dive deeper into the hardware-software interaction, allowing for more precise troubleshooting and optimization.
+
+The skills I honed during these projects, such as low-level programming, hardware interfacing, and effective debugging, are highly transferable to other embedded systems projects and coursework. These experiences have deepened my understanding of how to write efficient, reliable code that directly interacts with hardware, a critical skill in many areas of computer engineering.
+
+To ensure that the project remains maintainable, readable, and adaptable, I focused on writing clean, modular code. Each function was designed to perform a specific task, making it easier to understand and modify without impacting other parts of the system. I also adhered to consistent coding standards and provided inline comments where necessary to explain complex logic. By structuring the code this way, I made it easier for future developers to extend or adapt the functionality as needed.
